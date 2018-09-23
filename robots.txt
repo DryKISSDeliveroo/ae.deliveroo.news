@@ -1,7 +1,0 @@
-User-Agent: *
-Disallow: /admin/
-Disallow: /search/
-Disallow: /tags/
-Allow: /
-
-Sitemap: https://ae.deliveroo.news/sitemap.xml
