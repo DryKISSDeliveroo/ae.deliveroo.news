@@ -67,6 +67,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://ae.deliveroo.news/news/deliveroo-croissants.html</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ae.deliveroo.news/news/celebrate-cinco-de-mayo-with-deliveroo.html</loc>
     <lastmod>2019-02-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
