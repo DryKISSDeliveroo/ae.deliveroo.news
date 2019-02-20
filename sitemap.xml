@@ -73,6 +73,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://ae.deliveroo.news/news/deliveroo-valentines-day.html</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ae.deliveroo.news/news/deliveroo-croissants.html</loc>
     <lastmod>2019-02-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -116,6 +122,12 @@
   </url>
   <url>
     <loc>https://ae.deliveroo.news/tag/editions.html</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ae.deliveroo.news/tag/vegan.html</loc>
     <lastmod>2019-02-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
