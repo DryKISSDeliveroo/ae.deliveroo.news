@@ -31,6 +31,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://ae.deliveroo.news/news/deliveroo-eid.html</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ae.deliveroo.news/news/deliveroo-and-fiveguys-goldenburger.html</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -62,6 +68,12 @@
   </url>
   <url>
     <loc>https://ae.deliveroo.news/news/deliveroo-healthy-desk-life.html</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ae.deliveroo.news/news/deliveroo-hummusday.html</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -145,6 +157,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://ae.deliveroo.news/tag/giveaway.html</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ae.deliveroo.news/tag/restaurant-partnership.html</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ae.deliveroo.news/tag/csr.html</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,12 +224,6 @@
   </url>
   <url>
     <loc>https://ae.deliveroo.news/tag/coffee.html</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ae.deliveroo.news/tag/giveaway.html</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
