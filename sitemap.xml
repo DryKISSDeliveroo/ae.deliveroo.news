@@ -175,6 +175,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://ae.deliveroo.news/tag/events.html</loc>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ae.deliveroo.news/tag/father-s-day.html</loc>
     <lastmod>2019-06-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
