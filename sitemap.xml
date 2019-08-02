@@ -49,6 +49,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://ae.deliveroo.news/news/deliveroo-keep-hydrated.html</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ae.deliveroo.news/news/deliveroo-and-fiveguys-goldenburger.html</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -199,13 +205,31 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ae.deliveroo.news/tag/food.html</loc>
+    <loc>https://ae.deliveroo.news/tag/restaurant-partnership.html</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ae.deliveroo.news/tag/restaurant-partnership.html</loc>
+    <loc>https://ae.deliveroo.news/tag/editions.html</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ae.deliveroo.news/tag/juice.html</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ae.deliveroo.news/tag/healthy.html</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ae.deliveroo.news/tag/food.html</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -253,12 +277,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ae.deliveroo.news/tag/editions.html</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://ae.deliveroo.news/tag/events.html</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -290,12 +308,6 @@
   </url>
   <url>
     <loc>https://ae.deliveroo.news/tag/extreme-delivery.html</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ae.deliveroo.news/tag/healthy.html</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
