@@ -61,6 +61,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://ae.deliveroo.news/news/deliveroo-brokerage-uae.html</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ae.deliveroo.news/news/deliveroo-fathersday-couqley.html</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,6 +206,18 @@
   </url>
   <url>
     <loc>https://ae.deliveroo.news/tag/restaurant-partnership.html</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ae.deliveroo.news/tag/brokerage.html</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ae.deliveroo.news/tag/cost-savings.html</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -362,6 +380,12 @@
   </url>
   <url>
     <loc>https://ae.deliveroo.news/tag/food/page/2.html</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ae.deliveroo.news/tag/food/page/3.html</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
