@@ -235,24 +235,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ae.deliveroo.news/tag/video-games.html</loc>
-    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ae.deliveroo.news/tag/restaurant-partnership.html</loc>
-    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ae.deliveroo.news/tag/exclusive.html</loc>
-    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://ae.deliveroo.news/tag/deliveroo-for-business.html</loc>
     <lastmod>2019-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -266,6 +248,24 @@
   </url>
   <url>
     <loc>https://ae.deliveroo.news/tag/corporate.html</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ae.deliveroo.news/tag/video-games.html</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ae.deliveroo.news/tag/restaurant-partnership.html</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ae.deliveroo.news/tag/exclusive.html</loc>
     <lastmod>2019-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
